@@ -1,5 +1,5 @@
 # nextlevelweek4
-## Projeto feito em ![Badge](https://simpleicons.org/icons/node-dot-js.svg) ![Badge](https://simpleicons.org/icons/typescript.svg)
+## Projeto feito em ![Badge](https://img.shields.io/badge/NodeJs-NodeJs-blue) ![Badge](https://img.shields.io/badge/TypeScript-TypeScript-green)
 ## Descrição do Projeto
 <p align="center">projeto desenvolvido junto com o pessoal da rocketseat, neste projeto foi feito uma api para score de pesquisa de satisfação NPS </p>
 
